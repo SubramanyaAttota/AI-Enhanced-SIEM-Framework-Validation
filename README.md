@@ -13,7 +13,7 @@ Experiments are run on the [Microsoft GUIDE Dataset](https://www.kaggle.com/data
 ```
 AI-Enhanced-SIEM-Framework-Validation/
 │
-├── SIEM_Framework_Validation.html   ← Main notebook (all experiments and results)
+├── SIEM_Framework_Validation.ipynb   ← Main notebook (all experiments and results)
 ├── requirements.txt                  ← Python dependencies
 ├── README.md                         ← This file
 │
@@ -67,7 +67,7 @@ Download `GUIDE_Train.csv` from Kaggle and place it in the repository root.
 ### 4. Run the notebook
 
 ```bash
-jupyter notebook SIEM_results.ipynb
+jupyter notebook SIEM_Framework_Validation.ipynb
 ```
 
 Run all cells top-to-bottom (**Kernel → Restart & Run All**).
