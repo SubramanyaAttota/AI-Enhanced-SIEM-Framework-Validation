@@ -13,7 +13,7 @@ Experiments are run on the [Microsoft GUIDE Dataset](https://www.kaggle.com/data
 ```
 AI-Enhanced-SIEM-Framework-Validation/
 │
-├── SIEM_Framework_Validation.ipynb   ← Main notebook (all experiments)
+├── SIEM_Framework_Validation.html   ← Main notebook (all experiments and results)
 ├── requirements.txt                  ← Python dependencies
 ├── README.md                         ← This file
 │
