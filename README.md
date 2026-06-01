@@ -67,7 +67,7 @@ Download `GUIDE_Train.csv` from Kaggle and place it in the repository root.
 ### 4. Run the notebook
 
 ```bash
-jupyter notebook SIEM_Framework_Validation.ipynb
+jupyter notebook SIEM_results.ipynb
 ```
 
 Run all cells top-to-bottom (**Kernel → Restart & Run All**).
