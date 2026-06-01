@@ -1,5 +1,5 @@
 ## View Validation Results
-[Click here to view the fully rendered notebook](https://htmlpreview.github.io/?https://raw.githubusercontent.com/SubramanyaAttota/AI-Enhanced-SIEM-Framework-Validation/main/SIEM_Framework_Validation.html)
+[Click here to view the fully rendered validation results](https://htmlpreview.github.io/?https://raw.githubusercontent.com/SubramanyaAttota/AI-Enhanced-SIEM-Framework-Validation/main/SIEM_Framework_Validation.html)
 
 # AI-Enhanced SIEM Framework — Validation
 
